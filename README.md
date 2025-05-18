@@ -1,14 +1,14 @@
-# ChatGPT中文版：国内直连指南（支持GPT-4，GPT4o绘图，无需翻墙）【4月最新】
+# ChatGPT中文版：国内直连指南（支持GPT-4，GPT4o绘图，无需翻墙）【5月最新】
 
-> **更新时间： 2025/04/23**                          
+> **更新时间： 2025/05/18**                          
 
-本文提供全面的 **[ChatGPT 中文版](https://chat.yixiaai.com)使用指南**，推荐国内镜像网站，支持GPT-4和GPT-3.5，无需翻墙。了解如何快速使用 **[ChatGPT 中文版](https://chat.yixiaai.com)**，提升工作效率。
+本文提供全面的 **[ChatGPT 中文版](https://xsimplechat.com)使用指南**，推荐国内镜像网站，支持GPT-4和GPT-3.5，无需翻墙。了解如何快速使用 **[ChatGPT 中文版](https://xsimplechat.com)**，提升工作效率。
 
-本项目旨在为用户提供一站式的 **[ChatGPT 中文版](https://chat.yixiaai.com)使用指南**，同时整理了国内可用的 **ChatGPT镜像网站** 和 **官网使用教程**，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求。
+本项目旨在为用户提供一站式的 **[ChatGPT 中文版](https://xsimplechat.com)使用指南**，同时整理了国内可用的 **ChatGPT镜像网站** 和 **官网使用教程**，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求。
 
 
 ChatGPT 中文版：[chat.lanjing.pro](https://chat.lanjing.pro)   
-ChatGPT 镜像网站：[chat.yixiaai.com](https://chat.yixiaai.com)
+ChatGPT 镜像网站：[xsimplechat.com](https://xsimplechat.com)
 
 ---
 
@@ -27,7 +27,7 @@ ChatGPT 镜像网站：[chat.yixiaai.com](https://chat.yixiaai.com)
 
 ## 什么是 ChatGPT 中文版？
 
-**[ChatGPT 中文版](https://chat.yixiaai.com)** 是 OpenAI 开发的 ChatGPT 模型的中文优化版本，专为中文用户提供更流畅、更精准的对话体验。  
+**[ChatGPT 中文版](https://xsimplechat.com)** 是 OpenAI 开发的 ChatGPT 模型的中文优化版本，专为中文用户提供更流畅、更精准的对话体验。  
 与官方 ChatGPT 相比，中文版在以下方面更适合国内用户： 
 
 - **中文支持**：更流畅的中文对话能力，适合学习、办公和日常使用。
